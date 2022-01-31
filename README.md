@@ -1,1 +1,2 @@
-# labsoft2022
+# Laboratorios de Ingeniería del Software
+## Cuentas GitHub de los estudiantes:
